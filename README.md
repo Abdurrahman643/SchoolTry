@@ -1,0 +1,2 @@
+# SchoolTry
+An edtech Project
